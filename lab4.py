@@ -11,12 +11,12 @@
 
 
 
-# Print a random integer between 1 and 10.
+# Generate and print out a random integer between 30 and 50.
 
 
 
-# Generate a random float between 0 and 1
+# Generate two random floats between 0 and 1, add them together and print out the result.
 
 
 
-# Generate a random float between 1 and 10 and round it to 2 decimal places.
+# Generate and print out a random float between 1 and 100 and round it to 2 decimal places.
