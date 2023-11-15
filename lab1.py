@@ -4,7 +4,7 @@
 - File Name: lab1.py
 - Teacher: David Steedman
 - Class: Software Engineering
-- Description: Create and use while loops in Python.
+- Description: Create and use while loops in Python
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 # Create a while loop that prints the numbers 1 through 10.

@@ -4,7 +4,7 @@
 - File Name: lab2.py
 - Teacher: David Steedman
 - Class: Software Engineering
-- Description: Create and use for loops in Python.
+- Description: Create and use for loops in Python
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 # Use a for loop to print the numbers from 1 to 10.

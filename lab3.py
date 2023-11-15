@@ -4,7 +4,7 @@
 - File Name: lab3.py
 - Teacher: David Steedman
 - Class: Software Engineering
-- Description: Learn how to use loops and selection to validate user input.
+- Description: Learn how to use loops and selection to validate user input
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 # Create a menu. Use a while loop to validate the menu choices. 1 and 2 are valid, 3 exits the program.

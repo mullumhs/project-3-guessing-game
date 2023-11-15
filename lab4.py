@@ -4,7 +4,7 @@
 - File Name: lab4.py
 - Teacher: David Steedman
 - Class: Software Engineering
-- Description: Learn how to generate random numbers in Python.
+- Description: Learn how to generate random numbers in Python
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 # Import the random module.
